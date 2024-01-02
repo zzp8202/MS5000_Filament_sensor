@@ -2,7 +2,7 @@
 
 ## Objectives
 
-### This project originated from[# VORON M4 Extruder](https://github.com/VoronDesign/Mobius-Extruder)，Thank Voron team to facilitate these great project.
+### 
 
 #### The objectives for this project are:
 
